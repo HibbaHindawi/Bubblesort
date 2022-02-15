@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Threading;
-
 namespace Sortering_uppgift
 {
     class Program
