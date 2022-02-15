@@ -1,0 +1,15 @@
+/Users/hibba/Documents/GitHub/Sortering-uppgift/bin/Debug/net5.0/Sortering-uppgift.deps.json
+/Users/hibba/Documents/GitHub/Sortering-uppgift/bin/Debug/net5.0/Sortering-uppgift.runtimeconfig.json
+/Users/hibba/Documents/GitHub/Sortering-uppgift/bin/Debug/net5.0/Sortering-uppgift.runtimeconfig.dev.json
+/Users/hibba/Documents/GitHub/Sortering-uppgift/bin/Debug/net5.0/Sortering-uppgift.dll
+/Users/hibba/Documents/GitHub/Sortering-uppgift/bin/Debug/net5.0/ref/Sortering-uppgift.dll
+/Users/hibba/Documents/GitHub/Sortering-uppgift/bin/Debug/net5.0/Sortering-uppgift.pdb
+/Users/hibba/Documents/GitHub/Sortering-uppgift/obj/Debug/net5.0/Sortering-uppgift.csproj.AssemblyReference.cache
+/Users/hibba/Documents/GitHub/Sortering-uppgift/obj/Debug/net5.0/Sortering-uppgift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hibba/Documents/GitHub/Sortering-uppgift/obj/Debug/net5.0/Sortering-uppgift.AssemblyInfoInputs.cache
+/Users/hibba/Documents/GitHub/Sortering-uppgift/obj/Debug/net5.0/Sortering-uppgift.AssemblyInfo.cs
+/Users/hibba/Documents/GitHub/Sortering-uppgift/obj/Debug/net5.0/Sortering-uppgift.csproj.CoreCompileInputs.cache
+/Users/hibba/Documents/GitHub/Sortering-uppgift/obj/Debug/net5.0/Sortering-uppgift.dll
+/Users/hibba/Documents/GitHub/Sortering-uppgift/obj/Debug/net5.0/ref/Sortering-uppgift.dll
+/Users/hibba/Documents/GitHub/Sortering-uppgift/obj/Debug/net5.0/Sortering-uppgift.pdb
+/Users/hibba/Documents/GitHub/Sortering-uppgift/obj/Debug/net5.0/Sortering-uppgift.genruntimeconfig.cache
